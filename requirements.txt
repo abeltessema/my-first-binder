@@ -2,3 +2,4 @@ folium
 numpy
 matplotlib
 pandas
+geopandas
